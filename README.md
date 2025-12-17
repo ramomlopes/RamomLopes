@@ -9,7 +9,7 @@
   <p>
     Sou um desenvolvedor iniciante com uma base em front-end, dominando as principais tecnologias como <b>HTML, CSS e JavaScript</b>.<br>
     Além disso, tenho planos de expandir meu conhecimento em front-end, e estou ansioso para começar a estudar Angular em breve.
-    Atualmente, estou iniciando minha jornada no back-end, com foco em <b>Spring Boot e Java</b>. Embora ainda esteja no começo, estou bastante motivado a aprender e a aplicar boas práticas de desenvolvimento para criar soluções escaláveis e de alta qualidade.<br><br>
+    Atualmente, estou iniciando minha jornada no back-end, com foco em <b>Nodejs, express e javascript</b>. Estou bastante motivado a aprender e a aplicar boas práticas de desenvolvimento para criar soluções escaláveis e de alta qualidade.<br><br>
     Estou sempre em busca de novos desafios e oportunidades para crescer como desenvolvedor, tanto no front-end quanto no back-end, com o objetivo de me tornar um desenvolvedor full stack completo e versátil.
   </p>
 </div>
