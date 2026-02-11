@@ -5,7 +5,7 @@
 <h2 align="center">Sobre mim</h2>
 
 <div align="start">
-   <p>Olá, eu sou Ramom Lopes, tenho 26 anos e sou do interior de Minas Gerais.</p>
+   <p>Olá, eu sou Ramom Lopes, tenho 27 anos e sou do interior de Minas Gerais.</p>
   <p>
     Sou um desenvolvedor iniciante com uma base em front-end, dominando as principais tecnologias como <b>HTML, CSS e JavaScript</b>.<br>
     Além disso, tenho planos de expandir meu conhecimento em front-end, e estou ansioso para começar a estudar Angular em breve.
